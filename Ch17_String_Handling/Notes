@@ -1,4 +1,15 @@
-Once a String object has been created, you cannot change the characters that comprises the String.
-It will create a new object if you try to do so.
+- Once a String object has been created, you cannot change the characters that comprises the String. It will create a new object if you try to do so.
 
-For those cases in which a modifiable String is required, Java provides two options: StringBuffer and StringBuilder.
+- For those cases in which a modifiable String is required, Java provides two options:__StringBuffer and StringBuilder__
+
+- String, StringBuffer and StringBuilder are defined in __java.lang__, so they are automatically available to any class.
+
+- All of the 3 implements __CharSequence__ interface.
+
+
+
+
+
+
+
+
